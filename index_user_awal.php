@@ -30,7 +30,7 @@ if ($_SESSION['hak_akses'] == "user") {
     <div class="container">
         <br />
 
-        <h3 align="center">Medical Chat Dokter</a></h3><br />
+        <h3 align="center">Medical Chat User</a></h3><br />
         <br />
 
         <div class="table-responsive">
